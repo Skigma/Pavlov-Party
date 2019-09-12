@@ -11,6 +11,8 @@ Inspired by the some of the most popular minecraft's minigames.
 * Assimilation mode - Everytime you get killed, you change teams. The game ends when everyone is on the same team. The points will be decided on the time each player stays on the team witht the lowest amount of players.
 * Maze - A randomly generated maze. The first one out is the winner, and after the win, players will have 30 seconds to find the exit and get some points.
 
+ 
+* 1v1 championship - a championship of 1v1 matches, where the winner of the best of 3 in a round advances to the next round.
 ## To contribute to this project
 If you want to contribute to this project, send me a message on discord (Skigma #3341).
 It can be an idea for a new minigame to add, or to contribute by making your own gamemode (you can download this code to make your own minigame, but you can't upload your minigame as it's own map. If you do decide to make your own minigame, message me on discord first for the idea, and message me again if you need to test it online. you can post it on the workshop to test it online, but after the test, remove it from the workshop. I will add the minigame into my map if a known mapper has tried it and can say that there are close to no errors in the logic).
